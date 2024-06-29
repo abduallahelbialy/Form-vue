@@ -1,0 +1,56 @@
+:root {
+  --main-color: #0d4194;
+  ---font-text: 12px;
+  --font-t: 22px;
+}
+
+/* ///page form// */
+.home {
+  padding: 10px 0;
+}
+a {
+  text-decoration: none;
+}
+.one-input input {
+  width: 300px;
+  padding: 5px;
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid #ddd;
+}
+.one-input input:focus {
+  color: red;
+  border: 1px solid red;
+}
+.btn button {
+  width: 230px;
+  padding: 8px;
+  border-radius: 6px;
+  background-color: var(--main-color);
+  color: #fff;
+  border: none;
+  outline: none;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.img-form img {
+  max-width: 350px;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+@media (max-width: 477px) {
+  .img-form img {
+    display: none;
+  }
+}
+.forget {
+  font-size: 15px;
+}
+.forget a {
+  text-decoration-color: red;
+  -moz-text-decoration-color: red;
+}
+/* ////Bntnav page/// */

@@ -1,0 +1,30 @@
+{
+  "message": {
+    "create": "Create Account",
+    "log": "Login",
+    "user": "UserName",
+    "for": "Forget password?",
+    "how": "You have a Account?",
+    "changeLang": "Ar",
+    "cre": "Create",
+    "welcome": "Welcome",
+    "back":"Back",
+    "ardy": "The site is still under development",
+    "errorMessageLogin": "Please fill in all fields",
+    "errorMessageNotFound": "Account not found",
+    "conf": "Passwords do not match"
+  },
+  "names": {
+    "1": "UserName",
+    "2": "Email",
+    "3": "Password"
+  },
+  "creates": {
+    "1": "Username",
+    "2": "Email",
+    "3": "Phone Number",
+    "4": "Date of Birth",
+    "5": "Password",
+    "6": "Confirm Password"
+  }
+}
